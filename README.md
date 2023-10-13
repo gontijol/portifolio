@@ -4,11 +4,11 @@ Bem-vindo ao meu portfólio! Aqui você encontrará informações sobre mim, meu
 
 ## Sobre Mim
 
-- **Nome:** Seu Nome
-- **Localização:** Sua Localização
-- **E-mail:** seu.email@example.com
-- **LinkedIn:** [Seu Perfil no LinkedIn](https://www.linkedin.com/in/seu-nome)
-- **GitHub:** [Seu Perfil no GitHub](https://github.com/seu-nome)
+- **Nome:** Luigi Gontijo
+- **Localização:** Goiânia, Goiás, Brasil
+- **E-mail:** gontijol@live.com
+- **LinkedIn:** [Seu Perfil no LinkedIn](https://www.linkedin.com/in/luigigontijo)
+- **GitHub:** [Seu Perfil no GitHub](https://github.com/gontijol)
 
 
 ## Integração com API do GitHub
